@@ -26,13 +26,13 @@ A proposta é conseguir demonstrar a utilização de recursos do Microsoft Excel
 
 ---
 
-## 🛠 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 * Microsoft Excel (Tabelas Dinâmicas, gráficos, segmentação de dados, fórmulas e formatações condicionais), além de tentar reproduzir um visual funcional para o gestor deixando o dashboard independente de quem produziu
 * 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 📦 dashboard-vendas-xbox
@@ -43,7 +43,7 @@ A proposta é conseguir demonstrar a utilização de recursos do Microsoft Excel
 
 ---
 
-## 📊 Dados Utilizados
+## Dados Utilizados
 
 A base de dados utilizada foi disponibilizada pela DIO para fins educacionais e contém informações relacionadas às vendas de produtos Xbox.
 
@@ -56,7 +56,7 @@ Entre os dados analisados estão, a considerar importante para o desenvolvimento
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
 O dashboard foi desenvolvido para apresentar informações de forma simples e objetiva, permitindo acompanhar indicadores importantes do desempenho das vendas.
 
@@ -70,7 +70,7 @@ Exemplos de análises disponíveis:
 
 ---
 
-## ▶️ Como Reproduzir
+## Como Reproduzir
 
 1. Faça o download ou clone este repositório.
 
@@ -86,7 +86,7 @@ git clone https://github.com/seu-usuario/dashboard-vendas-xbox.git
 
 ---
 
-## 🎓 Aprendizados
+## Aprendizados
 
 Durante este desafio foram praticados conceitos importantes de análise de dados utilizando Excel, como:
 
@@ -100,13 +100,13 @@ Durante este desafio foram praticados conceitos importantes de análise de dados
 
 ---
 
-## 📚 Desafio
+## Desafio
 
 Projeto desenvolvido como parte da formação da **DIO (Digital Innovation One)**.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Gustavo Mateus**
 
@@ -115,6 +115,6 @@ Projeto desenvolvido como parte da formação da **DIO (Digital Innovation One)*
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto possui finalidade exclusivamente educacional.
