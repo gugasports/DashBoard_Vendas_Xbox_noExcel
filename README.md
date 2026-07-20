@@ -3,6 +3,9 @@
 ## Descrição
 
 Este projeto foi desenvolvido como parte do desafio **"Criando um Dashboard de Vendas Xbox no Excel"** da **DIO (Digital Innovation One)**.
+O caso a seguir é poder fornecer informações para equipe de Marketing e Produto afim de ver o faturamento com os planos existentes e atuar em estratégias para gerar upgrades.
+A pergunta a ser respondida foi:
+"Como os clientes compram os planos Xbox e onde estão as oportunidades de aumentar o faturamento?"
 
 O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
@@ -37,7 +40,7 @@ A proposta é conseguir demonstrar a utilização de recursos do Microsoft Excel
 ```text
 📦 dashboard-vendas-xbox
  ┣ 📄 README.md
- ┣ 📄 Dashboard_Vendas_Xbox.xlsx (Produzido por minha autoria)
+ ┣ 📄 Dashboard_XboxSalesReport.xlsx (Produzido por minha autoria)
  ┗ 📄 basedeDados.xlsx
 ```
 
@@ -78,7 +81,7 @@ Exemplos de análises disponíveis:
 git clone https://github.com/seu-usuario/dashboard-vendas-xbox.git
 ```
 
-2. Abra o arquivo **Dashboard_Vendas_Xbox.xlsx** utilizando o Microsoft Excel.
+2. Abra o arquivo **Dashboard_XboxSalesReport.xlsx** utilizando o Microsoft Excel.
 
 3. Caso seja solicitado, habilite a edição e o conteúdo para utilizar todos os recursos do dashboard.
 
