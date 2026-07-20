@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do desafio **"Criando um Dashboard de V
 O caso a seguir é poder fornecer informações para equipe de Marketing e Produto afim de ver o faturamento com os planos existentes e atuar em estratégias para gerar upgrades.
 
 A pergunta a ser respondida foi:
-*Como os clientes compram os planos Xbox e onde estão as oportunidades de aumentar o faturamento?*
+**Como os clientes compram os planos Xbox e onde estão as oportunidades de aumentar o faturamento?**
 
 O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
